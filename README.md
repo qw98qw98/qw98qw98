@@ -1,16 +1,13 @@
-## Hi there 👋
+👨‍💻 Data Wizard by day, Full Stack Ninja by night | Based in the bustling tech hub of Beijing 🏙️
 
-<!--
-**qw98qw98/qw98qw98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏢 Crunching numbers and wrangling data for the corporate world
+🚀 Moonlighting as a full-stack developer, turning caffeine into code
 
-Here are some ideas to get you started:
+Tech Toolbox 🧰:
+• Backend Sorcery: Java ☕, Kotlin 🎭
+• Frontend Wizardry: TypeScript 📜, React ⚛️, Vue 🖖
+• Mobile Magic: React Native 📱
+• Data Alchemy: SQL 🗃️, Python 🐍, Big Data Tools 🐘
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Passionate about crafting elegant solutions that make both machines and humans happy
+🔭 Always on the lookout for the next big thing in tech (and the perfect cup of coffee ☕)
