@@ -1,6 +1,6 @@
 # Hello, I'm HaoRan 👋
 
-## 🌞 Data Engineer & 🌙 Full Stack Developer | Beijing 🏙️
+## Data Engineer & Full Stack Developer | Beijing 🏙️
 
 Passionate about crafting efficient data solutions and building cross-platform applications.
 
