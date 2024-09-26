@@ -21,7 +21,6 @@ Passionate about crafting efficient data solutions and building cross-platform a
 
 ### 🚀 Current Focus
 - Expanding from web to cross-platform development
-- Enhancing data processing and visualization capabilities
 - Exploring desktop and mobile app development with Electron and React Native
 
 ### 💡 Interests
